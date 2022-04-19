@@ -1,5 +1,4 @@
-function msg(){
-    window.open("https://youtube.com","_self")}
+window.open("https://youtube.com","_self")
 
 (function () {
     //If serviceWorker supports, then register it.
