@@ -6,7 +6,7 @@
 	"display": "standalone",
 	"orientation": "portrait",
 	"background_color": "#f5f5f5",
-	"scope": "*"
+	"scope": "m.youtube.com",
 	"theme_color": "#009578",
 	"icons": [
 		{
