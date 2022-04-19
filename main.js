@@ -1,5 +1,3 @@
-window.open("https://youtube.com","_self")
-
 (function () {
     //If serviceWorker supports, then register it.
     if ("serviceWorker" in navigator) {
@@ -36,3 +34,7 @@ window.open("https://youtube.com","_self")
       });
     }
   })();
+function btn1(){
+window.location.replace("http://youtube.com");}
+function btn2(){
+window.location.replace("http://youtube.com");}
