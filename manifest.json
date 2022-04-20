@@ -2,7 +2,7 @@
 	"name": "MY YOUTUBE",
 	"short_name": "MYT",
 	"description": "MY YOUTUBE",
-	"start_url": ".",
+	"start_url": "m.youtube.com",
 	"display": "standalone",
 	"orientation": "portrait",
 	"background_color": "#f5f5f5",
