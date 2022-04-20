@@ -35,6 +35,7 @@
     }
   })();
 function btn1(){
-window.open("https://youtube.com","_self");}
+window.open("https://youtube.com","_self");
+window.scrollTo(0, 1);}
 function btn2(){
 window.location.replace("https://youtube.com");}
